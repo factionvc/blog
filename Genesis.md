@@ -21,6 +21,8 @@ Faction.vc is the early stage crypto/web3 fund that came out of [Lightspeed Vent
 
 All of us have been in crypto through multiple bear markets, either investing or building. We're genuinely passionate about seeing the space grow and realizing it's full potential. We're here because we're shameless idealists, believing that a better future is possible - but also enamoured by the technology.
 
+In the spirit of transparency, and all these writings being living documents as our perspectives change, you can see the full commit history for this blog on [Github](https://github.com/factionvc/blog)
+
 ### And, a little about the author
 
 By way of introduction to [myself](https://linkedin.com/in/hdahme), I'm the Technical Partner at the firm. The shorter version is that I spent some years in AI, cloud computing, and gaming before backing into crypto via impact investing and starting an undercollateralized lending platform before there was DeFi. 
